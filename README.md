@@ -1,6 +1,6 @@
 # Visualization of Chess Game Data
 
-## Membrers
+## Members
 - Jibril Gueye
 - Daniele Buondonno
 - Emanuele Calo
@@ -14,7 +14,7 @@ The project is implemented in Python using various libraries for data manipulati
 
 ## Dataset
 
-The dataset `games.csv` contains information on chess matches, including:
+The dataset contains information on chess matches, including:
 - Player ratings
 - Game outcomes (win, loss, draw)
 - Opening codes (ECO)
