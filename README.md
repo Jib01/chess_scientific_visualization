@@ -1,6 +1,9 @@
 # Visualization of Chess Game Data
 
 ### Jibril Gueye
+### Daniele Buondonno
+### Emanuele Calo
+
 
 ## Project Overview
 
